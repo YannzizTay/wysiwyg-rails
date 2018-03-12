@@ -40,7 +40,7 @@ In your `application.js.coffee`, include the JS file:
 $('selector').froalaEditor();
 ```
 
-If you need to use any of the [Available Plugins](https://froala.com/wysiwyg-editor/docs/plugins), then you should include those too in your `application.js.coffee` and `application.css.scss`.
+If you need to use any of the [Available Plugins](https://froala.com/wysiwyg-editor/docs/plugins), then you should include those two in your `application.js.coffee` and `application.css.scss`.
 
 ```coffeescript
 # Include other plugins.
